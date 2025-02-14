@@ -6,25 +6,34 @@
 
 # 💫 About Me:
 <div align="left">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-🔭 I'm currently working on:  
-Improving my skills in web development, machine learning, and automation.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-👯 I'm looking to collaborate on:  
-Open-source projects related to web development, machine learning, and automation.
+  > *A Mechanical Engineering student with a passion for code and innovation* 🚀
 
-🤝 I'm looking for help with:  
-Expanding my machine learning skills and exploring Python frameworks.
+  ### 🔭 I'm currently working on:
+  Enhancing my expertise in full-stack development, diving deep into machine learning algorithms, and crafting efficient automation solutions. My goal is to bridge the gap between mechanical engineering and software development.
 
-🌱 I'm currently learning:  
-Machine Learning with Python and advanced concepts in Next.js.
+  ### 👯 I'm looking to collaborate on:
+  Exciting open-source projects in web development, machine learning applications, and automation tools. I believe in learning through collaboration and creating meaningful impact together.
 
-💬 Ask me about:  
-Full-stack web development, AutoCAD, SolidWorks, and my mechanical engineering journey.
+  ### 🤝 I'm looking for help with:
+  Advanced machine learning concepts and exploring the vast ecosystem of Python frameworks. Always eager to learn from fellow developers and share knowledge.
 
-⚡ Fun fact:  
-I'm a mechanical engineering student with a passion for building innovative software applications.
+  ### 🌱 I'm currently learning:
+  - Machine Learning with Python
+  - Advanced concepts in Next.js
+  - Data visualization techniques
+  - Cloud architecture patterns
+
+  ### 💬 Ask me about:
+  - Full-stack web development journey
+  - AutoCAD and SolidWorks expertise
+  - Mechanical engineering insights
+  - Bridging engineering and programming
+
+  ### ⚡ Fun fact:
+  While most mechanical engineers stick to CAD and simulations, I found my passion in coding! I love combining mechanical engineering principles with software solutions to create innovative applications. My unique background gives me a different perspective on problem-solving in software development.
 </div>
 
 ## 🌐 Socials:
